@@ -28,6 +28,6 @@
     <img align="left" alt="Hargun | Gmail" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" />
   </a>
 
-<br><br><br><br>
+<br><br>
 
 **⭐️ From [hargun79](https://github.com/hargun79)**
