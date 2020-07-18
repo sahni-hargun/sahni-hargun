@@ -13,8 +13,6 @@
 
 ![Hargun's github stats](https://github-readme-stats.vercel.app/api?username=hargun79&show_icons=true&hide_border=true)
 
-<br>
-
   <a href="https://in.linkedin.com/in/hargun-singh-sahni-519baa166">
     <img align="left" alt="Hargun | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
   </a>
