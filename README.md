@@ -1,6 +1,6 @@
-# Hargun Singh Sahni&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Hargun Singh Sahni&nbsp;
 
-###  Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+###  Hello world!&nbsp;
 
 <p>
   <em>
