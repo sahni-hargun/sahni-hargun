@@ -6,8 +6,7 @@
   <em>
     I am a 3rd Year undergraduate from <a href="http://www.msit.in/"> <b>Maharaja Surajmal Institute of Technology</b></a>. <br><br>
     MERN Stack Developer || Flutter Developer
-    
-    <img src="./tenor.gif" style="width: 150px; float: right;">
+    <img src="https://github.com/hargun79/hargun79/blob/master/Assets/hi.gif" style="width: 150px; float: right;">
 
 
 <br>
