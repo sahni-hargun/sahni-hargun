@@ -1,6 +1,6 @@
 # Hargun Singh Sahni&nbsp;
 
-<img src="https://github.com/hargun79/hargun79/blob/master/Assets/hi.gif"">
+<img src="https://github.com/hargun79/hargun79/blob/master/Assets/hi.gif">
 
 <p>
     I am a 4th Year undergraduate from <a href="http://www.msit.in/"> <b>Maharaja Surajmal Institute of Technology</b></a>. <br><br>
