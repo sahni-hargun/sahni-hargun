@@ -1,17 +1,15 @@
 # Hargun Singh Sahni&nbsp;
 
-<img src="https://github.com/hargun79/hargun79/blob/master/Assets/hi.gif" style="width: 100px;">
+<img src="https://github.com/hargun79/hargun79/blob/master/Assets/hi.gif"">
 
 <p>
-    I am a 3rd Year undergraduate from <a href="http://www.msit.in/"> <b>Maharaja Surajmal Institute of Technology</b></a>. <br><br>
-    MERN Stack Developer || Flutter Developer 
+    I am a 4th Year undergraduate from <a href="http://www.msit.in/"> <b>Maharaja Surajmal Institute of Technology</b></a>. <br><br>
+    Flutter Developer || MERN Stack Developer 
 </p>
 
 
 <br>
 
-
-![Hargun's github stats](https://github-readme-stats.vercel.app/api?username=hargun79&show_icons=true&hide_border=true)
 
   <a href="https://in.linkedin.com/in/hargun-singh-sahni-519baa166">
     <img align="left" alt="Hargun | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
