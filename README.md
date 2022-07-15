@@ -4,7 +4,7 @@
 
 <p>
     I am a Software Development Engineer and have worked with the following technologies: <br>
-    Django || GraphQL || Node.js || Express.js || MySQL || MongoDB || HTML || CSS || JavaScript || React.js || Flutter || Dart
+    Spring Boot || Spring MVC || Hibernate || Django || GraphQL || Node.js || Express.js || MySQL || MongoDB || HTML || CSS || JavaScript || React.js || Flutter || Dart
 </p>
 
 
